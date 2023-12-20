@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Smarties72
-- - I'm a charismatic people
+- - I'm a charismatic man
 - 👀 I’m interested in create videos games
 - 🌱 I’m currently learning python and html
 - 💞️ I’m looking to collaborate with smarties®
