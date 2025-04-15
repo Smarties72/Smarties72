@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Smarties72
-- - I'm a charismatic man
-- 👀 I’m interested in create videos games
-- 🌱 I’m currently learning python and html
+- 👋 Hello, I’m @Smarties72
+- 👀 I’m interested in create many projects
+- 🌱 I’m currently learning python, Java Script, C++ and html
 - 💞️ I’m looking to collaborate with smarties®
 - 📫 How to reach me mailpro : floaulair@gmail.com
 
