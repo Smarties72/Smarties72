@@ -15,6 +15,12 @@
   <img src="https://img.shields.io/badge/Disney%20Infinity-00358E?style=flat&logo=disney" alt="Disney Infinity" />
   <img src="https://img.shields.io/badge/LEGO%20Dimensions-D11E24?style=flat&logo=lego" alt="LEGO Dimensions" />
 </p>
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Skylanders_Logo.png" alt="Skylanders Logo" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/b/bc/Rayman_Legends_logo.png" alt="Rayman Legends Logo" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Disney_Infinity_Logo.png" alt="Disney Infinity Logo" width="80" />
+  <img src="https://upload.wikimedia.org/wikipedia/en/6/66/Lego_Dimensions_logo.png" alt="LEGO Dimensions Logo" width="80" />
+</p>
 
 ---
 
