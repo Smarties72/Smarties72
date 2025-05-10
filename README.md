@@ -1,5 +1,5 @@
 <!-- 👋 Welcome Header -->
-<h1 align="center">Hi there, I’m <strong>Your Name</strong> 👋</h1>
+<h1 align="center">Hi there, I’m <strong>Smarties72/strong> 👋</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Age-17-ff69b4?style=flat&logo=birthdaycake" alt="Age 17" />
   <img src="https://img.shields.io/badge/Spoken%20Languages-English%2FSpanish%2FRussian-4c1?style=flat&logo=polyglot" alt="Languages Studied" />
