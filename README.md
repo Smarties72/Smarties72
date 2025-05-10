@@ -16,26 +16,14 @@
   <img src="https://img.shields.io/badge/LEGO%20Dimensions-D11E24?style=flat&logo=lego" alt="LEGO Dimensions" />
 </p>
 
+<!-- Custom Images Row -->
+
+> **Note:** To ensure your images load correctly, upload your logo files to your repository (e.g., in a folder named `assets` or `images`). Then reference them using relative paths.
+
+```markdown
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/en/3/38/Skylanders_Logo.png" alt="Skylanders Logo" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/b/bc/Rayman_Legends_logo.png" alt="Rayman Legends Logo" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/4/4d/Disney_Infinity_Logo.png" alt="Disney Infinity Logo" width="80" />
-  <img src="https://upload.wikimedia.org/wikipedia/en/6/66/Lego_Dimensions_logo.png" alt="LEGO Dimensions Logo" width="80" />
+  <img src="assets/skylanders_logo.png" alt="Skylanders Logo" width="80" />
+  <img src="assets/rayman_legends_logo.png" alt="Rayman Legends Logo" width="80" />
+  <img src="assets/disney_infinity_logo.png" alt="Disney Infinity Logo" width="80" />
+  <img src="assets/lego_dimensions_logo.png" alt="LEGO Dimensions Logo" width="80" />
 </p>
-
----
-
-## 🎨 Other Activities
-- 🎥 Video Editing  
-- ✏️ Drawing  
-- 📜 History  
-- ♟️ Chess  
-- 📖 Comics & Manga  
-
----
-
-<div align="center">
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/Let's%20Connect!-4A154B?style=flat&logo=github" alt="Let's Connect" />
-  </a>
-</div>
